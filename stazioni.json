@@ -1,0 +1,2877 @@
+
+[
+  {
+    "nomeLungo": "VEGGIA",
+    "nomeBreve": "VEGGIA",
+    "label": null,
+    "id": "S05979"
+  },
+  {
+    "nomeLungo": "VEZZOLA",
+    "nomeBreve": "Vezzola",
+    "label": null,
+    "id": "S05942"
+  },
+  {
+    "nomeLungo": "VIA LUNGA",
+    "nomeBreve": "Via Lun.",
+    "label": null,
+    "id": "S05972"
+  },
+  {
+    "nomeLungo": "VIGNOLA",
+    "nomeBreve": "VIGNOLA",
+    "label": null,
+    "id": "S05978"
+  },
+  {
+    "nomeLungo": "VILLALUNGA",
+    "nomeBreve": "VILLALUNGA",
+    "label": null,
+    "id": "S05980"
+  },
+  {
+    "nomeLungo": "VENEZIA SANTA LUCIA",
+    "nomeBreve": "Venezia S.Lucia",
+    "label": "Venezia",
+    "id": "S02593"
+  },
+  {
+    "nomeLungo": "VERGINESE",
+    "nomeBreve": "VERGINESE",
+    "label": null,
+    "id": "S05197"
+  },
+  {
+    "nomeLungo": "VERONA PORTA NUOVA",
+    "nomeBreve": "Verona P.Nuova",
+    "label": "Verona",
+    "id": "S02430"
+  },
+  {
+    "nomeLungo": "VITERBO PORTA FIORENTINA",
+    "nomeBreve": "Viterbo P.F.",
+    "label": "Viterbo",
+    "id": "S08304"
+  },
+  {
+    "nomeLungo": "VADA",
+    "nomeBreve": "Vada",
+    "label": null,
+    "id": "S06025"
+  },
+  {
+    "nomeLungo": "VAGLIA",
+    "nomeBreve": "Vaglia",
+    "label": null,
+    "id": "S06602"
+  },
+  {
+    "nomeLungo": "VAGLIO BASILICATA",
+    "nomeBreve": "Vaglio Basil.",
+    "label": null,
+    "id": "S11450"
+  },
+  {
+    "nomeLungo": "VAIANO",
+    "nomeBreve": "Vaiano",
+    "label": null,
+    "id": "S05136"
+  },
+  {
+    "nomeLungo": "VAIRANO",
+    "nomeBreve": "Vairano",
+    "label": null,
+    "id": "S09203"
+  },
+  {
+    "nomeLungo": "VALCESURA",
+    "nomeBreve": "Valcesura",
+    "label": null,
+    "id": "S05177"
+  },
+  {
+    "nomeLungo": "VALDAORA - ANTERSELVA",
+    "nomeBreve": "Valdaora - Anter / Olang-Antholz",
+    "label": null,
+    "id": "S02110"
+  },
+  {
+    "nomeLungo": "VALDIBRANA",
+    "nomeBreve": "Valdibrana",
+    "label": null,
+    "id": "S05117"
+  },
+  {
+    "nomeLungo": "VALENZA",
+    "nomeBreve": "Valenza",
+    "label": null,
+    "id": "S00041"
+  },
+  {
+    "nomeLungo": "VALLAZZA - CARBONARA PO",
+    "nomeBreve": "Vallazza-Carb.Po",
+    "label": null,
+    "id": "S05160"
+  },
+  {
+    "nomeLungo": "VALLE AURELIA",
+    "nomeBreve": "Valle Aurelia",
+    "label": null,
+    "id": "S08329"
+  },
+  {
+    "nomeLungo": "VALLE DI MADDALONI",
+    "nomeBreve": "Valle di Maddal.",
+    "label": null,
+    "id": "S09304"
+  },
+  {
+    "nomeLungo": "VALLE DI MERCATO S.SEVERINO",
+    "nomeBreve": "Valle di Mercato",
+    "label": null,
+    "id": "S09705"
+  },
+  {
+    "nomeLungo": "VALLE LOMELLINA",
+    "nomeBreve": "Valle Lomellina",
+    "label": null,
+    "id": "S00037"
+  },
+  {
+    "nomeLungo": "VALLECROSIA",
+    "nomeBreve": "Vallecrosia",
+    "label": null,
+    "id": "S04502"
+  },
+  {
+    "nomeLungo": "VALLEDOLMO",
+    "nomeBreve": "Valledolmo",
+    "label": null,
+    "id": "S12231"
+  },
+  {
+    "nomeLungo": "VALLELUNGA",
+    "nomeBreve": "Vallelunga",
+    "label": null,
+    "id": "S12232"
+  },
+  {
+    "nomeLungo": "VALLO DELLA LUC. CASTELNUOVO",
+    "nomeBreve": "Vallo d.Lucania",
+    "label": null,
+    "id": "S11709"
+  },
+  {
+    "nomeLungo": "VALLORBE",
+    "nomeBreve": "Vallorbe",
+    "label": null,
+    "id": "S01103"
+  },
+  {
+    "nomeLungo": "VALMADONNA",
+    "nomeBreve": "Valmadonna",
+    "label": null,
+    "id": "S00042"
+  },
+  {
+    "nomeLungo": "VALMADRERA",
+    "nomeBreve": "Valmadrera",
+    "label": null,
+    "id": "S01463"
+  },
+  {
+    "nomeLungo": "VALMONTONE",
+    "nomeBreve": "Valmontone",
+    "label": null,
+    "id": "S08656"
+  },
+  {
+    "nomeLungo": "VALPERGA",
+    "nomeBreve": "Valperga",
+    "label": null,
+    "id": "S00887"
+  },
+  {
+    "nomeLungo": "VALTOPINA",
+    "nomeBreve": "Valtopina",
+    "label": null,
+    "id": "S07214"
+  },
+  {
+    "nomeLungo": "VANDOIES",
+    "nomeBreve": "Vandoies / Vintl",
+    "label": null,
+    "id": "S02103"
+  },
+  {
+    "nomeLungo": "VANZAGO POGLIANO",
+    "nomeBreve": "Vanzago Pogliano",
+    "label": null,
+    "id": "S01036"
+  },
+  {
+    "nomeLungo": "VAPRIO D`AGOGNA",
+    "nomeBreve": "Vaprio d'Agogna",
+    "label": null,
+    "id": "S00022"
+  },
+  {
+    "nomeLungo": "VARALLO POMBIA",
+    "nomeBreve": "Varallo Pombia",
+    "label": null,
+    "id": "S00982"
+  },
+  {
+    "nomeLungo": "VARALLO SESIA",
+    "nomeBreve": "Varallo Sesia",
+    "label": null,
+    "id": "S00100"
+  },
+  {
+    "nomeLungo": "VARANO",
+    "nomeBreve": "Varano",
+    "label": null,
+    "id": "S07500"
+  },
+  {
+    "nomeLungo": "VARAZZE",
+    "nomeBreve": "Varazze",
+    "label": null,
+    "id": "S04531"
+  },
+  {
+    "nomeLungo": "VAREDO",
+    "nomeBreve": "Varedo",
+    "label": null,
+    "id": "S01084"
+  },
+  {
+    "nomeLungo": "VARENNA ESINO",
+    "nomeBreve": "Varenna Esino",
+    "label": null,
+    "id": "S01411"
+  },
+  {
+    "nomeLungo": "VARESE",
+    "nomeBreve": "Varese",
+    "label": "Varese",
+    "id": "S01205"
+  },
+  {
+    "nomeLungo": "VARIGNANA",
+    "nomeBreve": "Varignana",
+    "label": null,
+    "id": "S05052"
+  },
+  {
+    "nomeLungo": "VASTO S.SALVO",
+    "nomeBreve": "Vasto S.Salvo",
+    "label": null,
+    "id": "S07824"
+  },
+  {
+    "nomeLungo": "VASTOGIRARDI",
+    "nomeBreve": "Vastogirardi",
+    "label": null,
+    "id": "S08913"
+  },
+  {
+    "nomeLungo": "VELLETRI",
+    "nomeBreve": "Velletri",
+    "label": null,
+    "id": "S08734"
+  },
+  {
+    "nomeLungo": "VENAFRO",
+    "nomeBreve": "Venafro",
+    "label": null,
+    "id": "S09060"
+  },
+  {
+    "nomeLungo": "VENARIA",
+    "nomeBreve": "Venaria",
+    "label": null,
+    "id": "S00085"
+  },
+  {
+    "nomeLungo": "VENETICO",
+    "nomeBreve": "Venetico",
+    "label": null,
+    "id": "S12047"
+  },
+  {
+    "nomeLungo": "VENEZIA CARPENEDO",
+    "nomeBreve": "Venezia Carpen.",
+    "label": null,
+    "id": "S02672"
+  },
+  {
+    "nomeLungo": "VENEZIA MARGHERA SCALO",
+    "nomeBreve": "VE.MARGHERA SC.",
+    "label": null,
+    "id": "S02515"
+  },
+  {
+    "nomeLungo": "VENEZIA MARITTIMA",
+    "nomeBreve": "VE Marittima",
+    "label": null,
+    "id": "S02594"
+  },
+  {
+    "nomeLungo": "VENEZIA MESTRE",
+    "nomeBreve": "Venezia Mestre",
+    "label": "Mestre",
+    "id": "S02589"
+  },
+  {
+    "nomeLungo": "VENEZIA MESTRE OSPEDALE",
+    "nomeBreve": "Mestre Ospedale",
+    "label": null,
+    "id": "S02517"
+  },
+  {
+    "nomeLungo": "VENEZIA PORTO MARGHERA",
+    "nomeBreve": "V.Porto Marghera",
+    "label": null,
+    "id": "S02592"
+  },
+  {
+    "nomeLungo": "VENOSA - MASCHITO",
+    "nomeBreve": "Venosa Maschito",
+    "label": null,
+    "id": "S11302"
+  },
+  {
+    "nomeLungo": "VENTIMIGLIA",
+    "nomeBreve": "Ventimiglia",
+    "label": null,
+    "id": "S04501"
+  },
+  {
+    "nomeLungo": "VENZONE",
+    "nomeBreve": "Venzone",
+    "label": null,
+    "id": "S03018"
+  },
+  {
+    "nomeLungo": "VERBANIA-PALLANZA",
+    "nomeBreve": "Verbania",
+    "label": "Verbania-Pallanza",
+    "id": "S01013"
+  },
+  {
+    "nomeLungo": "VERCEIA",
+    "nomeBreve": "Verceia",
+    "label": null,
+    "id": "S01404"
+  },
+  {
+    "nomeLungo": "VERCELLI",
+    "nomeBreve": "Vercelli",
+    "label": "Vercelli",
+    "id": "S00245"
+  },
+  {
+    "nomeLungo": "VERCURAGO S.GIROLAMO",
+    "nomeBreve": "Vercurago S.Gir.",
+    "label": null,
+    "id": "S01523"
+  },
+  {
+    "nomeLungo": "VERDELLO DALMINE",
+    "nomeBreve": "Verdello Dalmine",
+    "label": null,
+    "id": "S01600"
+  },
+  {
+    "nomeLungo": "VERGATO",
+    "nomeBreve": "Vergato",
+    "label": null,
+    "id": "S05107"
+  },
+  {
+    "nomeLungo": "VERGIATE",
+    "nomeBreve": "Vergiate",
+    "label": null,
+    "id": "S01027"
+  },
+  {
+    "nomeLungo": "VERGNASCO",
+    "nomeBreve": "Vergnasco",
+    "label": null,
+    "id": "S00073"
+  },
+  {
+    "nomeLungo": "VERNANTE",
+    "nomeBreve": "Vernante",
+    "label": null,
+    "id": "S00616"
+  },
+  {
+    "nomeLungo": "VERNAZZA",
+    "nomeBreve": "Vernazza",
+    "label": null,
+    "id": "S04733"
+  },
+  {
+    "nomeLungo": "VERNIO MONTEPIANO CANTAGALLO",
+    "nomeBreve": "Vernio",
+    "label": null,
+    "id": "S05135"
+  },
+  {
+    "nomeLungo": "VEROLANUOVA",
+    "nomeBreve": "Verolanuova",
+    "label": null,
+    "id": "S01903"
+  },
+  {
+    "nomeLungo": "VEROLENGO",
+    "nomeBreve": "Verolengo",
+    "label": null,
+    "id": "S00170"
+  },
+  {
+    "nomeLungo": "VERONA CA` DI DAVID",
+    "nomeBreve": "VR Cà di David",
+    "label": null,
+    "id": "S02061"
+  },
+  {
+    "nomeLungo": "VERONA PARONA",
+    "nomeBreve": "Verona Parona",
+    "label": null,
+    "id": "S02058"
+  },
+  {
+    "nomeLungo": "VERONA PORTA VESCOVO",
+    "nomeBreve": "Verona P.Vescovo",
+    "label": null,
+    "id": "S02433"
+  },
+  {
+    "nomeLungo": "VERRES",
+    "nomeBreve": "Verres",
+    "label": null,
+    "id": "S00145"
+  },
+  {
+    "nomeLungo": "VERZUOLO",
+    "nomeBreve": "Verzuolo",
+    "label": null,
+    "id": "S00701"
+  },
+  {
+    "nomeLungo": "VESPOLATE",
+    "nomeBreve": "Vespolate",
+    "label": null,
+    "id": "S00031"
+  },
+  {
+    "nomeLungo": "VESPRI",
+    "nomeBreve": "Vespri",
+    "label": null,
+    "id": "S12135"
+  },
+  {
+    "nomeLungo": "VETRALLA",
+    "nomeBreve": "Vetralla",
+    "label": null,
+    "id": "S08309"
+  },
+  {
+    "nomeLungo": "VEZZANO LIGURE",
+    "nomeBreve": "Vezzano Ligure",
+    "label": "Vezzano",
+    "id": "S06171"
+  },
+  {
+    "nomeLungo": "VIA CAMPANA",
+    "nomeBreve": "Via Campana",
+    "label": null,
+    "id": "S09114"
+  },
+  {
+    "nomeLungo": "VIA CHIARI",
+    "nomeBreve": "Via Chiari",
+    "label": null,
+    "id": "S06064"
+  },
+  {
+    "nomeLungo": "VIADANA BRESCIANA",
+    "nomeBreve": "Viadana Bresc.",
+    "label": null,
+    "id": "S01842"
+  },
+  {
+    "nomeLungo": "VIAREGGIO",
+    "nomeBreve": "Viareggio",
+    "label": null,
+    "id": "S06040"
+  },
+  {
+    "nomeLungo": "VIBO MARINA",
+    "nomeBreve": "Vibo Marina",
+    "label": null,
+    "id": "S11754"
+  },
+  {
+    "nomeLungo": "VIBO VALENZIA PIZZO",
+    "nomeBreve": "Vibo Pizzo",
+    "label": "Vibo Valentia",
+    "id": "S11789"
+  },
+  {
+    "nomeLungo": "VICARELLO",
+    "nomeBreve": "Vicarello",
+    "label": null,
+    "id": "S06017"
+  },
+  {
+    "nomeLungo": "VICCHIO",
+    "nomeBreve": "Vicchio",
+    "label": null,
+    "id": "S06700"
+  },
+  {
+    "nomeLungo": "VICENZA",
+    "nomeBreve": "Vicenza",
+    "label": "Vicenza",
+    "id": "S02446"
+  },
+  {
+    "nomeLungo": "VICO MATRINO",
+    "nomeBreve": "Vico Matrino",
+    "label": null,
+    "id": "S08310"
+  },
+  {
+    "nomeLungo": "VICOFERTILE",
+    "nomeBreve": "Vicofertile",
+    "label": null,
+    "id": "S06150"
+  },
+  {
+    "nomeLungo": "VICOFORTE SAN MICHELE",
+    "nomeBreve": "Vicoforte S.M.",
+    "label": null,
+    "id": "S00953"
+  },
+  {
+    "nomeLungo": "VICOVARO",
+    "nomeBreve": "Vicovaro",
+    "label": null,
+    "id": "S08511"
+  },
+  {
+    "nomeLungo": "VIDALENGO",
+    "nomeBreve": "Vidalengo",
+    "label": null,
+    "id": "S01709"
+  },
+  {
+    "nomeLungo": "VIETRI SUL MARE",
+    "nomeBreve": "Vietri sul Mare",
+    "label": null,
+    "id": "S09817"
+  },
+  {
+    "nomeLungo": "VIEVOLA",
+    "nomeBreve": "Vievola",
+    "label": null,
+    "id": "S00618"
+  },
+  {
+    "nomeLungo": "VIGARANO PIEVE",
+    "nomeBreve": "Vigarano Pieve",
+    "label": null,
+    "id": "S05166"
+  },
+  {
+    "nomeLungo": "VIGEVANO",
+    "nomeBreve": "Vigevano",
+    "label": null,
+    "id": "S01061"
+  },
+  {
+    "nomeLungo": "VIGLIANO CANDELO",
+    "nomeBreve": "Vigliano Candelo",
+    "label": null,
+    "id": "S00977"
+  },
+  {
+    "nomeLungo": "VIGLIANO D`ABRUZZO",
+    "nomeBreve": "Vigliano d'Abruz",
+    "label": null,
+    "id": "S07412"
+  },
+  {
+    "nomeLungo": "VIGLIANO D`ASTI",
+    "nomeBreve": "Vigliano d'Asti",
+    "label": null,
+    "id": "S00802"
+  },
+  {
+    "nomeLungo": "VIGNA DI VALLE",
+    "nomeBreve": "Vigna di Valle",
+    "label": null,
+    "id": "S08316"
+  },
+  {
+    "nomeLungo": "VIGNALE",
+    "nomeBreve": "Vignale",
+    "label": null,
+    "id": "S00021"
+  },
+  {
+    "nomeLungo": "VIGNALE RIOTORTO",
+    "nomeBreve": "Vignale Riotorto",
+    "label": null,
+    "id": "S06032"
+  },
+  {
+    "nomeLungo": "VIGNATE",
+    "nomeBreve": "Vignate",
+    "label": null,
+    "id": "S01704"
+  },
+  {
+    "nomeLungo": "VIGODARZERE",
+    "nomeBreve": "Vigodarzere",
+    "label": null,
+    "id": "S02528"
+  },
+  {
+    "nomeLungo": "VIGONE",
+    "nomeBreve": "Vigone",
+    "label": null,
+    "id": "S00542"
+  },
+  {
+    "nomeLungo": "VIGONZA PIANIGA",
+    "nomeBreve": "Vigonza Pianiga",
+    "label": null,
+    "id": "S02586"
+  },
+  {
+    "nomeLungo": "VILLA BONELLI",
+    "nomeBreve": "Villa Bonelli",
+    "label": null,
+    "id": "S08399"
+  },
+  {
+    "nomeLungo": "VILLA CADE`",
+    "nomeBreve": "Villa Cade'",
+    "label": null,
+    "id": "S05022"
+  },
+  {
+    "nomeLungo": "VILLA CASTELLI",
+    "nomeBreve": "Villa Castelli",
+    "label": null,
+    "id": "S11608"
+  },
+  {
+    "nomeLungo": "VILLA CLAUDIA",
+    "nomeBreve": "Villa Claudia",
+    "label": null,
+    "id": "S08714"
+  },
+  {
+    "nomeLungo": "VILLA DEL CONTE",
+    "nomeBreve": "Villa del Conte",
+    "label": null,
+    "id": "S02523"
+  },
+  {
+    "nomeLungo": "VILLA DI TIRANO",
+    "nomeBreve": "Villa di Tirano",
+    "label": null,
+    "id": "S01439"
+  },
+  {
+    "nomeLungo": "VILLA LITERNO",
+    "nomeBreve": "Villa Literno",
+    "label": null,
+    "id": "S09003"
+  },
+  {
+    "nomeLungo": "VILLA OPICINA",
+    "nomeBreve": "Villa Opicina",
+    "label": null,
+    "id": "S03466"
+  },
+  {
+    "nomeLungo": "VILLA ORTENSIA",
+    "nomeBreve": "Villa Ortensia",
+    "label": null,
+    "id": "S09024"
+  },
+  {
+    "nomeLungo": "VILLA RAVERIO",
+    "nomeBreve": "Villa Raverio",
+    "label": null,
+    "id": "S01487"
+  },
+  {
+    "nomeLungo": "VILLA S.G.CANNITELLO",
+    "nomeBreve": "V.S.G.Cannitello",
+    "label": null,
+    "id": "S11773"
+  },
+  {
+    "nomeLungo": "VILLA S.MARIA",
+    "nomeBreve": "Villa S.Maria",
+    "label": null,
+    "id": "S07995"
+  },
+  {
+    "nomeLungo": "VILLA SAN GIOVANNI",
+    "nomeBreve": "Villa S.Giovanni",
+    "label": null,
+    "id": "S11774"
+  },
+  {
+    "nomeLungo": "VILLA SAN MICHELE",
+    "nomeBreve": "Villa S.Michele",
+    "label": null,
+    "id": "S08555"
+  },
+  {
+    "nomeLungo": "VILLA SAN SEBASTIANO",
+    "nomeBreve": "Villa San Seb.",
+    "label": null,
+    "id": "S08523"
+  },
+  {
+    "nomeLungo": "VILLABARTOLOMEA",
+    "nomeBreve": "Villabartolomea",
+    "label": null,
+    "id": "S02367"
+  },
+  {
+    "nomeLungo": "VILLABASSA - BRAIES",
+    "nomeBreve": "Villabassa / Niederdorf-Prags",
+    "label": null,
+    "id": "S02112"
+  },
+  {
+    "nomeLungo": "VILLABATE",
+    "nomeBreve": "Villabate",
+    "label": null,
+    "id": "S12006"
+  },
+  {
+    "nomeLungo": "VILLADOSSOLA",
+    "nomeBreve": "Villadossola",
+    "label": null,
+    "id": "S00001"
+  },
+  {
+    "nomeLungo": "VILLAFRANCA - BAGNONE",
+    "nomeBreve": "Villafranca-Bagn",
+    "label": null,
+    "id": "S06166"
+  },
+  {
+    "nomeLungo": "VILLAFRANCA C.",
+    "nomeBreve": "Villafranca C.",
+    "label": null,
+    "id": "S00459"
+  },
+  {
+    "nomeLungo": "VILLAFRANCA DI VERONA",
+    "nomeBreve": "Villafranca D.V.",
+    "label": null,
+    "id": "S02331"
+  },
+  {
+    "nomeLungo": "VILLAFRANCA P.",
+    "nomeBreve": "Villafranca P.",
+    "label": null,
+    "id": "S00543"
+  },
+  {
+    "nomeLungo": "VILLAFRANCA TIRRENA",
+    "nomeBreve": "Villafranca T.",
+    "label": null,
+    "id": "S12050"
+  },
+  {
+    "nomeLungo": "VILLALBA",
+    "nomeBreve": "Villalba",
+    "label": null,
+    "id": "S12233"
+  },
+  {
+    "nomeLungo": "VILLAMAGGIORE",
+    "nomeBreve": "Villamaggiore",
+    "label": null,
+    "id": "S01802"
+  },
+  {
+    "nomeLungo": "VILLAMASSARGIA DOMUSNOVAS",
+    "nomeBreve": "Villamassargia D",
+    "label": null,
+    "id": "S12952"
+  },
+  {
+    "nomeLungo": "VILLANOVA",
+    "nomeBreve": "Villanova",
+    "label": null,
+    "id": "S00458"
+  },
+  {
+    "nomeLungo": "VILLANOVA - GROSSO",
+    "nomeBreve": "Villanova-Grosso",
+    "label": null,
+    "id": "S00092"
+  },
+  {
+    "nomeLungo": "VILLANOVA DI REGGIOLO",
+    "nomeBreve": "Villanova Regg.",
+    "label": null,
+    "id": "S02345"
+  },
+  {
+    "nomeLungo": "VILLANOVA D`ARDA",
+    "nomeBreve": "Villanova d'Arda",
+    "label": null,
+    "id": "S01962"
+  },
+  {
+    "nomeLungo": "VILLANOVA D`ARDENGHI",
+    "nomeBreve": "Villanova d'Ard.",
+    "label": null,
+    "id": "S00278"
+  },
+  {
+    "nomeLungo": "VILLAPIANA LIDO",
+    "nomeBreve": "Villapiana Lido",
+    "label": null,
+    "id": "S11809"
+  },
+  {
+    "nomeLungo": "VILLAPIANA TORRE CERCHIARA",
+    "nomeBreve": "Villapiana T.C.",
+    "label": null,
+    "id": "S11810"
+  },
+  {
+    "nomeLungo": "VILLAROSA",
+    "nomeBreve": "Villarosa",
+    "label": null,
+    "id": "S12237"
+  },
+  {
+    "nomeLungo": "VILLASANTA",
+    "nomeBreve": "Villasanta",
+    "label": null,
+    "id": "S01481"
+  },
+  {
+    "nomeLungo": "VILLASOR",
+    "nomeBreve": "Villasor",
+    "label": null,
+    "id": "S12887"
+  },
+  {
+    "nomeLungo": "VILLASPECIOSA UTA",
+    "nomeBreve": "Villaspecios Uta",
+    "label": null,
+    "id": "S12956"
+  },
+  {
+    "nomeLungo": "VILLASTELLONE",
+    "nomeBreve": "Villastellone",
+    "label": null,
+    "id": "S00600"
+  },
+  {
+    "nomeLungo": "VILLAVERLA MONTECCHIO",
+    "nomeBreve": "Villaverla",
+    "label": null,
+    "id": "S02145"
+  },
+  {
+    "nomeLungo": "VILLAZZANO",
+    "nomeBreve": "Villazzano",
+    "label": null,
+    "id": "S02300"
+  },
+  {
+    "nomeLungo": "VILLENEUVE",
+    "nomeBreve": "Villeneuve",
+    "label": null,
+    "id": "S00135"
+  },
+  {
+    "nomeLungo": "VILLETTA",
+    "nomeBreve": "Villetta",
+    "label": null,
+    "id": "S08711"
+  },
+  {
+    "nomeLungo": "VILLETTA MALAGNINO",
+    "nomeBreve": "Villetta Malagn.",
+    "label": null,
+    "id": "S01916"
+  },
+  {
+    "nomeLungo": "VILLETTA S. ROMANO",
+    "nomeBreve": "Villetta S. Rom.",
+    "label": null,
+    "id": "S06322"
+  },
+  {
+    "nomeLungo": "VILPIANO-NALLES",
+    "nomeBreve": "Vilpiano-Nalles / Vilpian-Nals",
+    "label": null,
+    "id": "S02222"
+  },
+  {
+    "nomeLungo": "VINCHIATURO",
+    "nomeBreve": "Vinchiaturo",
+    "label": null,
+    "id": "S09457"
+  },
+  {
+    "nomeLungo": "VIPITENO",
+    "nomeBreve": "Vipiteno / Sterzing",
+    "label": null,
+    "id": "S02006"
+  },
+  {
+    "nomeLungo": "VISANO",
+    "nomeBreve": "Visano",
+    "label": null,
+    "id": "S01844"
+  },
+  {
+    "nomeLungo": "VISONE",
+    "nomeBreve": "Visone",
+    "label": null,
+    "id": "S04100"
+  },
+  {
+    "nomeLungo": "VITERBO PORTA ROMANA",
+    "nomeBreve": "Viterbo P.R.",
+    "label": "Viterbo",
+    "id": "S08306"
+  },
+  {
+    "nomeLungo": "VITTORIA",
+    "nomeBreve": "Vittoria",
+    "label": null,
+    "id": "S12410"
+  },
+  {
+    "nomeLungo": "VITTORIO VENETO",
+    "nomeBreve": "Vittorio Veneto",
+    "label": null,
+    "id": "S02733"
+  },
+  {
+    "nomeLungo": "VITTUONE ARLUNO",
+    "nomeBreve": "Vittuone Arluno",
+    "label": null,
+    "id": "S01042"
+  },
+  {
+    "nomeLungo": "VITULANO FOGLIANISE",
+    "nomeBreve": "Vitulano Fogl.",
+    "label": null,
+    "id": "S09310"
+  },
+  {
+    "nomeLungo": "VITUSO",
+    "nomeBreve": "Vituso",
+    "label": null,
+    "id": "S12391"
+  },
+  {
+    "nomeLungo": "VIZZINI",
+    "nomeBreve": "Vizzini",
+    "label": null,
+    "id": "S12273"
+  },
+  {
+    "nomeLungo": "VOGHERA",
+    "nomeBreve": "Voghera",
+    "label": null,
+    "id": "S01807"
+  },
+  {
+    "nomeLungo": "VOGOGNA OSSOLA",
+    "nomeBreve": "Vogogna Ossola",
+    "label": null,
+    "id": "S01008"
+  },
+  {
+    "nomeLungo": "VOLPIANO",
+    "nomeBreve": "Volpiano",
+    "label": null,
+    "id": "S00880"
+  },
+  {
+    "nomeLungo": "VOLTANA",
+    "nomeBreve": "Voltana",
+    "label": null,
+    "id": "S05807"
+  },
+  {
+    "nomeLungo": "VOLTERRA SALINE - POMARANCE",
+    "nomeBreve": "Volterra Saline",
+    "label": null,
+    "id": "S06753"
+  },
+  {
+    "nomeLungo": "VRBOVEC",
+    "nomeBreve": "Vrbovec",
+    "label": null,
+    "id": "S73110"
+  },
+  {
+    "nomeLungo": "VRTOJBA",
+    "nomeBreve": "Vrtojba",
+    "label": null,
+    "id": "S03299"
+  },
+  {
+    "nomeLungo": "MEZZOLARA",
+    "nomeBreve": "Mezzol.",
+    "label": null,
+    "id": "S05997"
+  },
+  {
+    "nomeLungo": "MODENA PIAZZA MANZONI",
+    "nomeBreve": "MOD.PM",
+    "label": null,
+    "id": "S05188"
+  },
+  {
+    "nomeLungo": "MOLINELLA",
+    "nomeBreve": "Molinel.",
+    "label": null,
+    "id": "S05018"
+  },
+  {
+    "nomeLungo": "MUFFA",
+    "nomeBreve": "Muffa",
+    "label": null,
+    "id": "S05974"
+  },
+  {
+    "nomeLungo": "MILANO CENTRALE",
+    "nomeBreve": "Milano Centrale",
+    "label": "Milano",
+    "id": "S01700"
+  },
+  {
+    "nomeLungo": "MACCAGNO",
+    "nomeBreve": "Maccagno",
+    "label": null,
+    "id": "S13653"
+  },
+  {
+    "nomeLungo": "MACCARESE",
+    "nomeBreve": "Maccarese",
+    "label": null,
+    "id": "S08020"
+  },
+  {
+    "nomeLungo": "MACERATA",
+    "nomeBreve": "Macerata",
+    "label": "Macerata",
+    "id": "S07307"
+  },
+  {
+    "nomeLungo": "MACERATA FONTESCODELLA",
+    "nomeBreve": "Macerata Fontesc",
+    "label": null,
+    "id": "S07313"
+  },
+  {
+    "nomeLungo": "MACHERIO SOVICO",
+    "nomeBreve": "Macherio Sovico",
+    "label": null,
+    "id": "S01500"
+  },
+  {
+    "nomeLungo": "MACHERIO-CANONICA",
+    "nomeBreve": "Macherio-C.",
+    "label": null,
+    "id": "S01484"
+  },
+  {
+    "nomeLungo": "MACOMER",
+    "nomeBreve": "Macomer",
+    "label": null,
+    "id": "S12869"
+  },
+  {
+    "nomeLungo": "MADDALENE",
+    "nomeBreve": "Maddalene",
+    "label": null,
+    "id": "S00607"
+  },
+  {
+    "nomeLungo": "MADDALONI INFERIORE",
+    "nomeBreve": "Maddaloni Inf.",
+    "label": null,
+    "id": "S09212"
+  },
+  {
+    "nomeLungo": "MADDALONI SUPERIORE",
+    "nomeBreve": "Maddaloni Super.",
+    "label": null,
+    "id": "S09303"
+  },
+  {
+    "nomeLungo": "MADIGNANO",
+    "nomeBreve": "Madignano",
+    "label": null,
+    "id": "S01610"
+  },
+  {
+    "nomeLungo": "MADONNA DEL PIANO",
+    "nomeBreve": "Madonna del Pian",
+    "label": null,
+    "id": "S08108"
+  },
+  {
+    "nomeLungo": "MADONNA DEL PILONE",
+    "nomeBreve": "Madonna del P.",
+    "label": null,
+    "id": "S00820"
+  },
+  {
+    "nomeLungo": "MADONNA DELLA SCALA",
+    "nomeBreve": "Madonna d. Scala",
+    "label": null,
+    "id": "S00501"
+  },
+  {
+    "nomeLungo": "MADONNA DELLE GRAZIE",
+    "nomeBreve": "Madonna d.Grazie",
+    "label": null,
+    "id": "S09773"
+  },
+  {
+    "nomeLungo": "MADONNA DI CAMPAGNA",
+    "nomeBreve": "Madonna di Camp.",
+    "label": null,
+    "id": "S00083"
+  },
+  {
+    "nomeLungo": "MADONNA DI CASTRO",
+    "nomeBreve": "Madonna di Castr",
+    "label": null,
+    "id": "S12853"
+  },
+  {
+    "nomeLungo": "MAERNE DI MARTELLAGO",
+    "nomeBreve": "Maerne di Mart.",
+    "label": null,
+    "id": "S02512"
+  },
+  {
+    "nomeLungo": "MAGENTA",
+    "nomeBreve": "Magenta",
+    "label": null,
+    "id": "S01040"
+  },
+  {
+    "nomeLungo": "MAGIONE",
+    "nomeBreve": "Magione",
+    "label": null,
+    "id": "S07002"
+  },
+  {
+    "nomeLungo": "MAGLIANA",
+    "nomeBreve": "Magliana",
+    "label": null,
+    "id": "S08404"
+  },
+  {
+    "nomeLungo": "MAGLIANO CRAVA MOROZZO",
+    "nomeBreve": "Magliano C.M.",
+    "label": null,
+    "id": "S00951"
+  },
+  {
+    "nomeLungo": "MAGNA GRECIA",
+    "nomeBreve": "Magna Grecia",
+    "label": null,
+    "id": "S11042"
+  },
+  {
+    "nomeLungo": "MAGNACAVALLO",
+    "nomeBreve": "Magnacavallo",
+    "label": null,
+    "id": "S05159"
+  },
+  {
+    "nomeLungo": "MAGRE`- CORTACCIA",
+    "nomeBreve": "Magre'-Cortaccia / Magreid-Kurtatsch",
+    "label": null,
+    "id": "S02033"
+  },
+  {
+    "nomeLungo": "MAJANO",
+    "nomeBreve": "Majano",
+    "label": null,
+    "id": "S03051"
+  },
+  {
+    "nomeLungo": "MALEO",
+    "nomeBreve": "Maleo",
+    "label": null,
+    "id": "S01910"
+  },
+  {
+    "nomeLungo": "MALLES VENOSTA",
+    "nomeBreve": "Malles Venosta",
+    "label": null,
+    "id": "S02200"
+  },
+  {
+    "nomeLungo": "MALPENSA AEROPORTO T1",
+    "nomeBreve": "MALP AT1",
+    "label": null,
+    "id": "S01139"
+  },
+  {
+    "nomeLungo": "MALPENSA AEROPORTO T2",
+    "nomeBreve": "MALP AT2",
+    "label": null,
+    "id": "S01146"
+  },
+  {
+    "nomeLungo": "MALTIGNANO DEL TRONTO",
+    "nomeBreve": "Maltignano T.",
+    "label": null,
+    "id": "S07555"
+  },
+  {
+    "nomeLungo": "MANAROLA",
+    "nomeBreve": "Manarola",
+    "label": null,
+    "id": "S04735"
+  },
+  {
+    "nomeLungo": "MANDATORICCIO CAMPANA",
+    "nomeBreve": "Mandatoriccio C.",
+    "label": null,
+    "id": "S11817"
+  },
+  {
+    "nomeLungo": "MANDELA-SAMBUCI",
+    "nomeBreve": "Mandela-Sambuci",
+    "label": null,
+    "id": "S08512"
+  },
+  {
+    "nomeLungo": "MANDELLO DEL LARIO",
+    "nomeBreve": "Mandello del L.",
+    "label": null,
+    "id": "S01415"
+  },
+  {
+    "nomeLungo": "MANDRAS",
+    "nomeBreve": "Mandras",
+    "label": null,
+    "id": "S12898"
+  },
+  {
+    "nomeLungo": "MANERBIO",
+    "nomeBreve": "Manerbio",
+    "label": null,
+    "id": "S01902"
+  },
+  {
+    "nomeLungo": "MANFREDONIA",
+    "nomeBreve": "Manfredonia",
+    "label": null,
+    "id": "S11054"
+  },
+  {
+    "nomeLungo": "MANIAGO",
+    "nomeBreve": "Maniago",
+    "label": null,
+    "id": "S03084"
+  },
+  {
+    "nomeLungo": "MANOPPELLO",
+    "nomeBreve": "Manoppello",
+    "label": null,
+    "id": "S07710"
+  },
+  {
+    "nomeLungo": "MANTA",
+    "nomeBreve": "Manta",
+    "label": null,
+    "id": "S00700"
+  },
+  {
+    "nomeLungo": "MANTOVA",
+    "nomeBreve": "Mantova",
+    "label": "Mantova",
+    "id": "S02336"
+  },
+  {
+    "nomeLungo": "MANTOVA FRASSINE",
+    "nomeBreve": "Mantova Frassine",
+    "label": null,
+    "id": "S02380"
+  },
+  {
+    "nomeLungo": "MANZANO",
+    "nomeBreve": "Manzano",
+    "label": null,
+    "id": "S03030"
+  },
+  {
+    "nomeLungo": "MANZIANA-CANALE MONTERANO",
+    "nomeBreve": "Manziana",
+    "label": null,
+    "id": "S08314"
+  },
+  {
+    "nomeLungo": "MARANO",
+    "nomeBreve": "Marano",
+    "label": null,
+    "id": "S02142"
+  },
+  {
+    "nomeLungo": "MARANO TICINO",
+    "nomeBreve": "Marano Ticino",
+    "label": null,
+    "id": "S00983"
+  },
+  {
+    "nomeLungo": "MARATEA",
+    "nomeBreve": "Maratea",
+    "label": null,
+    "id": "S11723"
+  },
+  {
+    "nomeLungo": "MARAUSA",
+    "nomeBreve": "Marausa",
+    "label": null,
+    "id": "S12104"
+  },
+  {
+    "nomeLungo": "MARCARIA",
+    "nomeBreve": "Marcaria",
+    "label": null,
+    "id": "S01921"
+  },
+  {
+    "nomeLungo": "MARCELLINA VERBICARO ORSOMARSO",
+    "nomeBreve": "Marcellina V.O.",
+    "label": null,
+    "id": "S11728"
+  },
+  {
+    "nomeLungo": "MARCELLINA-PALOMBARA",
+    "nomeBreve": "Marcellina-Palom",
+    "label": null,
+    "id": "S08507"
+  },
+  {
+    "nomeLungo": "MARCELLINARA",
+    "nomeBreve": "Marcellinara",
+    "label": null,
+    "id": "S11953"
+  },
+  {
+    "nomeLungo": "MARCIANISE",
+    "nomeBreve": "Marcianise",
+    "label": null,
+    "id": "S09301"
+  },
+  {
+    "nomeLungo": "MARCONI",
+    "nomeBreve": "Marconi",
+    "label": null,
+    "id": "S11121"
+  },
+  {
+    "nomeLungo": "MARCONIA",
+    "nomeBreve": "Marconia",
+    "label": null,
+    "id": "S11800"
+  },
+  {
+    "nomeLungo": "MARECHIARO",
+    "nomeBreve": "Marechiaro",
+    "label": null,
+    "id": "S08716"
+  },
+  {
+    "nomeLungo": "MARGARITA",
+    "nomeBreve": "Margarita",
+    "label": null,
+    "id": "S00902"
+  },
+  {
+    "nomeLungo": "MARGHERITA DI SAV./OFANTINO",
+    "nomeBreve": "Margherita S.Of.",
+    "label": null,
+    "id": "S11107"
+  },
+  {
+    "nomeLungo": "MARIANO COMENSE",
+    "nomeBreve": "Mariano Comense",
+    "label": null,
+    "id": "S01089"
+  },
+  {
+    "nomeLungo": "MARIANOPOLI",
+    "nomeBreve": "Marianopoli",
+    "label": null,
+    "id": "S12234"
+  },
+  {
+    "nomeLungo": "MARIGLIANO",
+    "nomeBreve": "Marigliano",
+    "label": null,
+    "id": "S09750"
+  },
+  {
+    "nomeLungo": "MARINA DI CERVETERI",
+    "nomeBreve": "Marina di Cervet",
+    "label": null,
+    "id": "S08022"
+  },
+  {
+    "nomeLungo": "MARINA DI MARATEA",
+    "nomeBreve": "Mar.di Maratea",
+    "label": null,
+    "id": "S11724"
+  },
+  {
+    "nomeLungo": "MARINA DI SAN LORENZO",
+    "nomeBreve": "M.d.San Lorenzo",
+    "label": null,
+    "id": "S11862"
+  },
+  {
+    "nomeLungo": "MARINELLA",
+    "nomeBreve": "Marinella",
+    "label": null,
+    "id": "S12854"
+  },
+  {
+    "nomeLungo": "MARINO",
+    "nomeBreve": "Marino",
+    "label": null,
+    "id": "S08701"
+  },
+  {
+    "nomeLungo": "MARINO DEL TRONTO FOLIGNANO",
+    "nomeBreve": "Marino del Tr.",
+    "label": null,
+    "id": "S07556"
+  },
+  {
+    "nomeLungo": "MARLENGO",
+    "nomeBreve": "Marlengo",
+    "label": null,
+    "id": "S02214"
+  },
+  {
+    "nomeLungo": "MARMORE",
+    "nomeBreve": "Marmore",
+    "label": null,
+    "id": "S07401"
+  },
+  {
+    "nomeLungo": "MAROTTA MONDOLFO",
+    "nomeBreve": "Marotta Mondolfo",
+    "label": null,
+    "id": "S07107"
+  },
+  {
+    "nomeLungo": "MARRADI",
+    "nomeBreve": "Marradi",
+    "label": null,
+    "id": "S06610"
+  },
+  {
+    "nomeLungo": "MARRUBIU TERRALBA ARBOREA",
+    "nomeBreve": "Marrubiu Terr.Ar",
+    "label": null,
+    "id": "S12879"
+  },
+  {
+    "nomeLungo": "MARSALA",
+    "nomeBreve": "Marsala",
+    "label": null,
+    "id": "S12107"
+  },
+  {
+    "nomeLungo": "MARZABOTTO",
+    "nomeBreve": "Marzabotto",
+    "label": null,
+    "id": "S05105"
+  },
+  {
+    "nomeLungo": "MARZAMEMI",
+    "nomeBreve": "Marzamemi",
+    "label": null,
+    "id": "S12444"
+  },
+  {
+    "nomeLungo": "MARZOCCA",
+    "nomeBreve": "Marzocca",
+    "label": null,
+    "id": "S07109"
+  },
+  {
+    "nomeLungo": "MASCALI",
+    "nomeBreve": "Mascali",
+    "label": null,
+    "id": "S12323"
+  },
+  {
+    "nomeLungo": "MASCHIO",
+    "nomeBreve": "Maschio",
+    "label": null,
+    "id": "S04811"
+  },
+  {
+    "nomeLungo": "MASI TORELLO",
+    "nomeBreve": "Masi Torello",
+    "label": null,
+    "id": "S05171"
+  },
+  {
+    "nomeLungo": "MASSA CENTRO",
+    "nomeBreve": "Massa Centro",
+    "label": "Massa",
+    "id": "S06009"
+  },
+  {
+    "nomeLungo": "MASSAFISCAGLIA",
+    "nomeBreve": "Massafiscaglia",
+    "label": null,
+    "id": "S05179"
+  },
+  {
+    "nomeLungo": "MASSAFRA",
+    "nomeBreve": "Massafra",
+    "label": null,
+    "id": "S11510"
+  },
+  {
+    "nomeLungo": "MASSALOMBARDA",
+    "nomeBreve": "Massalombarda",
+    "label": null,
+    "id": "S05952"
+  },
+  {
+    "nomeLungo": "MASSAROSA BOZZANO",
+    "nomeBreve": "Massarosa Bozzan",
+    "label": null,
+    "id": "S06350"
+  },
+  {
+    "nomeLungo": "MATELICA",
+    "nomeBreve": "Matelica",
+    "label": null,
+    "id": "S07301"
+  },
+  {
+    "nomeLungo": "MATHI",
+    "nomeBreve": "Mathi",
+    "label": null,
+    "id": "S00093"
+  },
+  {
+    "nomeLungo": "MATREI",
+    "nomeBreve": "Matrei",
+    "label": null,
+    "id": "S02263"
+  },
+  {
+    "nomeLungo": "MATRICE MONTAGANO",
+    "nomeBreve": "Matrice Montag.",
+    "label": null,
+    "id": "S09461"
+  },
+  {
+    "nomeLungo": "MATTARELLO",
+    "nomeBreve": "Mattarello",
+    "label": null,
+    "id": "S02040"
+  },
+  {
+    "nomeLungo": "MAZARA DEL VALLO",
+    "nomeBreve": "Mazara del Vallo",
+    "label": null,
+    "id": "S12110"
+  },
+  {
+    "nomeLungo": "MEDA",
+    "nomeBreve": "Meda",
+    "label": null,
+    "id": "S01087"
+  },
+  {
+    "nomeLungo": "MEDE",
+    "nomeBreve": "Mede",
+    "label": null,
+    "id": "S00406"
+  },
+  {
+    "nomeLungo": "MEDESANO",
+    "nomeBreve": "Medesano",
+    "label": null,
+    "id": "S06102"
+  },
+  {
+    "nomeLungo": "MEDUNO",
+    "nomeBreve": "Meduno",
+    "label": null,
+    "id": "S03082"
+  },
+  {
+    "nomeLungo": "MEINA",
+    "nomeBreve": "Meina",
+    "label": null,
+    "id": "S01019"
+  },
+  {
+    "nomeLungo": "MELANO MARISCHIO",
+    "nomeBreve": "Melano Marischio",
+    "label": null,
+    "id": "S07065"
+  },
+  {
+    "nomeLungo": "MELE",
+    "nomeBreve": "Mele",
+    "label": null,
+    "id": "S04106"
+  },
+  {
+    "nomeLungo": "MELEGNANO",
+    "nomeBreve": "Melegnano",
+    "label": null,
+    "id": "S01822"
+  },
+  {
+    "nomeLungo": "MELFI",
+    "nomeBreve": "Melfi",
+    "label": null,
+    "id": "S11206"
+  },
+  {
+    "nomeLungo": "MELITO DI PORTO SALVO",
+    "nomeBreve": "Melito P.S.",
+    "label": null,
+    "id": "S11863"
+  },
+  {
+    "nomeLungo": "MELZO",
+    "nomeBreve": "Melzo",
+    "label": null,
+    "id": "S01705"
+  },
+  {
+    "nomeLungo": "MELZO SCALO",
+    "nomeBreve": "Melzo Scalo",
+    "label": null,
+    "id": "S02215"
+  },
+  {
+    "nomeLungo": "MEMMENANO",
+    "nomeBreve": "Memmenano",
+    "label": null,
+    "id": "S06075"
+  },
+  {
+    "nomeLungo": "MENTON",
+    "nomeBreve": "Menton",
+    "label": null,
+    "id": "S75648"
+  },
+  {
+    "nomeLungo": "MEOLO",
+    "nomeBreve": "Meolo",
+    "label": null,
+    "id": "S02668"
+  },
+  {
+    "nomeLungo": "MERANA",
+    "nomeBreve": "Merana",
+    "label": null,
+    "id": "S00875"
+  },
+  {
+    "nomeLungo": "MERANO",
+    "nomeBreve": "Merano / Meran",
+    "label": null,
+    "id": "S02216"
+  },
+  {
+    "nomeLungo": "MERANO MAIA BASSA",
+    "nomeBreve": "Merano Maia Bass / Meran-Untermais",
+    "label": null,
+    "id": "S02217"
+  },
+  {
+    "nomeLungo": "MERCATELLO",
+    "nomeBreve": "Mercatello",
+    "label": null,
+    "id": "S09837"
+  },
+  {
+    "nomeLungo": "MERCATO SAN SEVERINO",
+    "nomeBreve": "Mercato S.Sever.",
+    "label": null,
+    "id": "S09706"
+  },
+  {
+    "nomeLungo": "MERCENASCO",
+    "nomeBreve": "Mercenasco",
+    "label": null,
+    "id": "S00156"
+  },
+  {
+    "nomeLungo": "MERGOZZO",
+    "nomeBreve": "Mergozzo",
+    "label": null,
+    "id": "S01012"
+  },
+  {
+    "nomeLungo": "MERONE",
+    "nomeBreve": "Merone",
+    "label": null,
+    "id": "S01454"
+  },
+  {
+    "nomeLungo": "MESAGNE",
+    "nomeBreve": "Mesagne",
+    "label": null,
+    "id": "S11607"
+  },
+  {
+    "nomeLungo": "MESSINA CENTRALE",
+    "nomeBreve": "Messina Cent.",
+    "label": "Messina",
+    "id": "S12301"
+  },
+  {
+    "nomeLungo": "MESSINA MARITTIMA",
+    "nomeBreve": "Messina Maritt.",
+    "label": null,
+    "id": "S12300"
+  },
+  {
+    "nomeLungo": "MESTRINO",
+    "nomeBreve": "Mestrino",
+    "label": null,
+    "id": "S02580"
+  },
+  {
+    "nomeLungo": "METAPONTO",
+    "nomeBreve": "Metaponto",
+    "label": null,
+    "id": "S11461"
+  },
+  {
+    "nomeLungo": "MEZZANI RONDANI",
+    "nomeBreve": "Mezzani Rondani",
+    "label": null,
+    "id": "S01851"
+  },
+  {
+    "nomeLungo": "MEZZANO",
+    "nomeBreve": "Mezzano",
+    "label": null,
+    "id": "S05810"
+  },
+  {
+    "nomeLungo": "MEZZOCORONA",
+    "nomeBreve": "Mezzocorona",
+    "label": null,
+    "id": "S02035"
+  },
+  {
+    "nomeLungo": "MI P.GAR.SOTT.",
+    "nomeBreve": "MI P.Gar.Sott.",
+    "label": null,
+    "id": "S01647"
+  },
+  {
+    "nomeLungo": "MI.P.GENOVA",
+    "nomeBreve": "MI P.Genova",
+    "label": null,
+    "id": "S01631"
+  },
+  {
+    "nomeLungo": "MIGLIARINO",
+    "nomeBreve": "Migliarino",
+    "label": null,
+    "id": "S05176"
+  },
+  {
+    "nomeLungo": "MIGLIARO",
+    "nomeBreve": "Migliaro",
+    "label": null,
+    "id": "S05178"
+  },
+  {
+    "nomeLungo": "MIGNANEGO",
+    "nomeBreve": "Mignanego",
+    "label": null,
+    "id": "S04212"
+  },
+  {
+    "nomeLungo": "MIGNANO DI MONTE LUNGO",
+    "nomeBreve": "Mignano Mont.",
+    "label": null,
+    "id": "S09201"
+  },
+  {
+    "nomeLungo": "MILANO AFFORI",
+    "nomeBreve": "Milano Affori",
+    "label": null,
+    "id": "S01078"
+  },
+  {
+    "nomeLungo": "MILANO BOVISA FNM",
+    "nomeBreve": "MI BOVISA FNM",
+    "label": null,
+    "id": "S01642"
+  },
+  {
+    "nomeLungo": "MILANO BRUZZANO",
+    "nomeBreve": "Milano Bruzzano",
+    "label": null,
+    "id": "S01079"
+  },
+  {
+    "nomeLungo": "MILANO CERTOSA",
+    "nomeBreve": "Milano Certosa",
+    "label": "Milano",
+    "id": "S01640"
+  },
+  {
+    "nomeLungo": "MILANO DATEO",
+    "nomeBreve": "Milano Dateo",
+    "label": null,
+    "id": "S01650"
+  },
+  {
+    "nomeLungo": "MILANO FARINI",
+    "nomeBreve": "Milano Farini",
+    "label": null,
+    "id": "S01644"
+  },
+  {
+    "nomeLungo": "MILANO FORLANINI",
+    "nomeBreve": "Milano Forlanini",
+    "label": null,
+    "id": "S01492"
+  },
+  {
+    "nomeLungo": "MILANO GRECO PIRELLI",
+    "nomeBreve": "MI Greco Pirelli",
+    "label": null,
+    "id": "S01326"
+  },
+  {
+    "nomeLungo": "MILANO LAMBRATE",
+    "nomeBreve": "Milano Lambrate",
+    "label": null,
+    "id": "S01701"
+  },
+  {
+    "nomeLungo": "MILANO LANCETTI",
+    "nomeBreve": "MI Lancetti",
+    "label": null,
+    "id": "S01643"
+  },
+  {
+    "nomeLungo": "MILANO NORD CADORNA",
+    "nomeBreve": "MILANO N.CADORNA",
+    "label": null,
+    "id": "S01066"
+  },
+  {
+    "nomeLungo": "MILANO NORD DOMODOSSOLA",
+    "nomeBreve": "Mi.N.Domodossola",
+    "label": null,
+    "id": "S01067"
+  },
+  {
+    "nomeLungo": "MILANO NORD QUARTO OGGIARO ",
+    "nomeBreve": "Mi.N.Quar.Oggiro",
+    "label": null,
+    "id": "S01069"
+  },
+  {
+    "nomeLungo": "MILANO PORTA GARIBALDI",
+    "nomeBreve": "MI P. Garibaldi",
+    "label": null,
+    "id": "S01645"
+  },
+  {
+    "nomeLungo": "MILANO PORTA ROMANA",
+    "nomeBreve": "MI P.ta Romana",
+    "label": null,
+    "id": "S01632"
+  },
+  {
+    "nomeLungo": "MILANO PORTA VITTORIA",
+    "nomeBreve": "MI P.ta Vittoria",
+    "label": null,
+    "id": "S01633"
+  },
+  {
+    "nomeLungo": "MILANO REPUBBLICA",
+    "nomeBreve": "MI Repubblica",
+    "label": null,
+    "id": "S01648"
+  },
+  {
+    "nomeLungo": "MILANO ROGOREDO",
+    "nomeBreve": "Milano Rogoredo",
+    "label": "Rogoredo",
+    "id": "S01820"
+  },
+  {
+    "nomeLungo": "MILANO ROMOLO",
+    "nomeBreve": "Milano Romolo",
+    "label": null,
+    "id": "S01032"
+  },
+  {
+    "nomeLungo": "MILANO S. CRISTOFORO",
+    "nomeBreve": "MI S.Cristoforo",
+    "label": null,
+    "id": "S01630"
+  },
+  {
+    "nomeLungo": "MILANO VENEZIA",
+    "nomeBreve": "MI Venezia",
+    "label": null,
+    "id": "S01649"
+  },
+  {
+    "nomeLungo": "MILANO VILLAPIZZONE",
+    "nomeBreve": "MI Villapizzone",
+    "label": null,
+    "id": "S01639"
+  },
+  {
+    "nomeLungo": "MILAZZO",
+    "nomeBreve": "Milazzo",
+    "label": null,
+    "id": "S12042"
+  },
+  {
+    "nomeLungo": "MILETO",
+    "nomeBreve": "Mileto",
+    "label": null,
+    "id": "S11790"
+  },
+  {
+    "nomeLungo": "MILITELLO",
+    "nomeBreve": "Militello",
+    "label": null,
+    "id": "S12276"
+  },
+  {
+    "nomeLungo": "MIMMOLE",
+    "nomeBreve": "Mimmole",
+    "label": null,
+    "id": "S06954"
+  },
+  {
+    "nomeLungo": "MINEO",
+    "nomeBreve": "Mineo",
+    "label": null,
+    "id": "S12275"
+  },
+  {
+    "nomeLungo": "MINERVINO MURGE",
+    "nomeBreve": "Minervino Murge",
+    "label": null,
+    "id": "S11403"
+  },
+  {
+    "nomeLungo": "MINTURNO",
+    "nomeBreve": "Minturno",
+    "label": null,
+    "id": "S09150"
+  },
+  {
+    "nomeLungo": "MINUCCIANO - PIEVE - CASOLA",
+    "nomeBreve": "Minucciano P. C.",
+    "label": null,
+    "id": "S06227"
+  },
+  {
+    "nomeLungo": "MIRA MIRANO",
+    "nomeBreve": "Mira Mirano",
+    "label": null,
+    "id": "S02588"
+  },
+  {
+    "nomeLungo": "MIRADOLO TERME",
+    "nomeBreve": "Miradolo Terme",
+    "label": null,
+    "id": "S01867"
+  },
+  {
+    "nomeLungo": "MIRAMARE",
+    "nomeBreve": "Miramare",
+    "label": null,
+    "id": "S03311"
+  },
+  {
+    "nomeLungo": "MIRANDOLA",
+    "nomeBreve": "Mirandola",
+    "label": null,
+    "id": "S05311"
+  },
+  {
+    "nomeLungo": "MIRTO CROSIA",
+    "nomeBreve": "Mirto Crosia",
+    "label": null,
+    "id": "S11814"
+  },
+  {
+    "nomeLungo": "MISANO ADRIATICO",
+    "nomeBreve": "Misano Adriatico",
+    "label": null,
+    "id": "S07119"
+  },
+  {
+    "nomeLungo": "MODANE",
+    "nomeBreve": "Modane",
+    "label": null,
+    "id": "S00201"
+  },
+  {
+    "nomeLungo": "MODANE FX",
+    "nomeBreve": "Modane FX",
+    "label": null,
+    "id": "S00190"
+  },
+  {
+    "nomeLungo": "MODENA",
+    "nomeBreve": "Modena",
+    "label": "Modena",
+    "id": "S05032"
+  },
+  {
+    "nomeLungo": "MODICA",
+    "nomeBreve": "Modica",
+    "label": null,
+    "id": "S12417"
+  },
+  {
+    "nomeLungo": "MODUGNO",
+    "nomeBreve": "Modugno",
+    "label": null,
+    "id": "S11516"
+  },
+  {
+    "nomeLungo": "MODUGNO",
+    "nomeBreve": "Modugno",
+    "label": null,
+    "id": "S11500"
+  },
+  {
+    "nomeLungo": "MODUGNO CITTA`",
+    "nomeBreve": "Modugno Citta'",
+    "label": null,
+    "id": "S11515"
+  },
+  {
+    "nomeLungo": "MOGLIANO VENETO",
+    "nomeBreve": "Mogliano Veneto",
+    "label": null,
+    "id": "S02717"
+  },
+  {
+    "nomeLungo": "MOIANA",
+    "nomeBreve": "Moiana",
+    "label": null,
+    "id": "S01456"
+  },
+  {
+    "nomeLungo": "MOIMACCO",
+    "nomeBreve": "Moimacco",
+    "label": null,
+    "id": "S03058"
+  },
+  {
+    "nomeLungo": "MOJO-ALCANTARA MALVAGNA",
+    "nomeBreve": "Mojo-Alcantara M",
+    "label": null,
+    "id": "S12363"
+  },
+  {
+    "nomeLungo": "MOLA DI BARI",
+    "nomeBreve": "Mola di Bari",
+    "label": null,
+    "id": "S11127"
+  },
+  {
+    "nomeLungo": "MOLARE",
+    "nomeBreve": "Molare",
+    "label": null,
+    "id": "S04102"
+  },
+  {
+    "nomeLungo": "MOLFETTA",
+    "nomeBreve": "Molfetta",
+    "label": null,
+    "id": "S11114"
+  },
+  {
+    "nomeLungo": "MOLINA CASTEL VECCHIO SUBAQUEO",
+    "nomeBreve": "Molina C.V.S.",
+    "label": null,
+    "id": "S07424"
+  },
+  {
+    "nomeLungo": "MOLINO DEL PALLONE",
+    "nomeBreve": "Molino del Pall.",
+    "label": null,
+    "id": "S05112"
+  },
+  {
+    "nomeLungo": "MOLTENO",
+    "nomeBreve": "Molteno",
+    "label": null,
+    "id": "S01458"
+  },
+  {
+    "nomeLungo": "MOMBALDONE ROCCAVERANO",
+    "nomeBreve": "Monbaldone Rocc.",
+    "label": null,
+    "id": "S00873"
+  },
+  {
+    "nomeLungo": "MOMBARUZZO",
+    "nomeBreve": "Mombaruzzo",
+    "label": null,
+    "id": "S00808"
+  },
+  {
+    "nomeLungo": "MOMO",
+    "nomeBreve": "Momo",
+    "label": null,
+    "id": "S00019"
+  },
+  {
+    "nomeLungo": "MONASTERACE STILO",
+    "nomeBreve": "Monasterace St.",
+    "label": null,
+    "id": "S11844"
+  },
+  {
+    "nomeLungo": "MONASTERO PRATAVECCHI",
+    "nomeBreve": "Monastero Prat.",
+    "label": null,
+    "id": "S00721"
+  },
+  {
+    "nomeLungo": "MONCALIERI",
+    "nomeBreve": "Moncalieri",
+    "label": null,
+    "id": "S00453"
+  },
+  {
+    "nomeLungo": "MONCALIERI SANGONE",
+    "nomeBreve": "MONC. SANGONE",
+    "label": null,
+    "id": "S00510"
+  },
+  {
+    "nomeLungo": "MONCALVO",
+    "nomeBreve": "Moncalvo",
+    "label": null,
+    "id": "S00340"
+  },
+  {
+    "nomeLungo": "MONCHIERO DOGLIANI",
+    "nomeBreve": "Monchiero Dogl.",
+    "label": null,
+    "id": "S00735"
+  },
+  {
+    "nomeLungo": "MONDOVI`",
+    "nomeBreve": "MONDOVI'",
+    "label": null,
+    "id": "S00952"
+  },
+  {
+    "nomeLungo": "MONEGLIA",
+    "nomeBreve": "Moneglia",
+    "label": null,
+    "id": "S04727"
+  },
+  {
+    "nomeLungo": "MONFALCONE",
+    "nomeBreve": "Monfalcone",
+    "label": null,
+    "id": "S03310"
+  },
+  {
+    "nomeLungo": "MONGARDINO",
+    "nomeBreve": "Mongardino",
+    "label": null,
+    "id": "S00801"
+  },
+  {
+    "nomeLungo": "MONGRASSANO CERVICATI",
+    "nomeBreve": "Mongrassano",
+    "label": null,
+    "id": "S11905"
+  },
+  {
+    "nomeLungo": "MONGUELFO VALLE DI CASIES",
+    "nomeBreve": "Monguelfo / Welsberg-Gsies",
+    "label": null,
+    "id": "S02111"
+  },
+  {
+    "nomeLungo": "MONOPOLI",
+    "nomeBreve": "Monopoli",
+    "label": null,
+    "id": "S11129"
+  },
+  {
+    "nomeLungo": "MONSAMPOLO DEL T",
+    "nomeBreve": "MONSAMPOLO DEL T",
+    "label": null,
+    "id": "S07023"
+  },
+  {
+    "nomeLungo": "MONSAMPOLO DEL TRONTO",
+    "nomeBreve": "Monsampolo",
+    "label": null,
+    "id": "S07553"
+  },
+  {
+    "nomeLungo": "MONSELICE",
+    "nomeBreve": "Monselice",
+    "label": null,
+    "id": "S05703"
+  },
+  {
+    "nomeLungo": "MONTAGNANA",
+    "nomeBreve": "Montagnana",
+    "label": null,
+    "id": "S02392"
+  },
+  {
+    "nomeLungo": "MONTAGUTO PANNI",
+    "nomeBreve": "Montaguto P.",
+    "label": null,
+    "id": "S09319"
+  },
+  {
+    "nomeLungo": "MONTALE AGLIANA",
+    "nomeBreve": "Montale Agliana",
+    "label": null,
+    "id": "S06415"
+  },
+  {
+    "nomeLungo": "MONTALLESE",
+    "nomeBreve": "Montallese",
+    "label": null,
+    "id": "S06856"
+  },
+  {
+    "nomeLungo": "MONTALTO DI CASTRO",
+    "nomeBreve": "Montalto di Cas.",
+    "label": null,
+    "id": "S08008"
+  },
+  {
+    "nomeLungo": "MONTALTO DORA",
+    "nomeBreve": "Montalto Dora",
+    "label": null,
+    "id": "S00153"
+  },
+  {
+    "nomeLungo": "MONTALTO ROSE",
+    "nomeBreve": "Montalto Rose",
+    "label": null,
+    "id": "S11908"
+  },
+  {
+    "nomeLungo": "MONTANARO",
+    "nomeBreve": "Montanaro",
+    "label": null,
+    "id": "S00160"
+  },
+  {
+    "nomeLungo": "MONTE AMIATA",
+    "nomeBreve": "Monte Amiata",
+    "label": null,
+    "id": "S06818"
+  },
+  {
+    "nomeLungo": "MONTE ANTICO",
+    "nomeBreve": "Monte Antico",
+    "label": null,
+    "id": "S06820"
+  },
+  {
+    "nomeLungo": "MONTE ARCAU",
+    "nomeBreve": "Monte Arcau",
+    "label": null,
+    "id": "S12973"
+  },
+  {
+    "nomeLungo": "MONTE GIORDANO",
+    "nomeBreve": "Monte Giordano",
+    "label": null,
+    "id": "S11805"
+  },
+  {
+    "nomeLungo": "MONTE MELINO",
+    "nomeBreve": "Monte Melino",
+    "label": null,
+    "id": "S07014"
+  },
+  {
+    "nomeLungo": "MONTE S. SAVINO",
+    "nomeBreve": "Monte S. Savino",
+    "label": null,
+    "id": "S06068"
+  },
+  {
+    "nomeLungo": "MONTE S.BIAGIO",
+    "nomeBreve": "Monte S.Biagio",
+    "label": null,
+    "id": "S08605"
+  },
+  {
+    "nomeLungo": "MONTEBELLO",
+    "nomeBreve": "Montebello",
+    "label": null,
+    "id": "S02443"
+  },
+  {
+    "nomeLungo": "MONTEBELLUNA",
+    "nomeBreve": "Montebelluna",
+    "label": null,
+    "id": "S02570"
+  },
+  {
+    "nomeLungo": "MONTECALVO BUONALBERGO CASALB.",
+    "nomeBreve": "Montecalvo B.C.",
+    "label": null,
+    "id": "S09315"
+  },
+  {
+    "nomeLungo": "MONTECARLO SAN SALVATORE",
+    "nomeBreve": "Montecarlo S.Sal",
+    "label": null,
+    "id": "S06408"
+  },
+  {
+    "nomeLungo": "MONTECAROTTO CASTELBELLINO",
+    "nomeBreve": "Montecarotto C.",
+    "label": null,
+    "id": "S07203"
+  },
+  {
+    "nomeLungo": "MONTECATINI CENTRO",
+    "nomeBreve": "Montecatini C.",
+    "label": null,
+    "id": "S06412"
+  },
+  {
+    "nomeLungo": "MONTECATINI TERME",
+    "nomeBreve": "Montecatini T.",
+    "label": null,
+    "id": "S06411"
+  },
+  {
+    "nomeLungo": "MONTECHIARO DENICE",
+    "nomeBreve": "Montechiaro D.",
+    "label": null,
+    "id": "S00872"
+  },
+  {
+    "nomeLungo": "MONTECHIARO D`ASTI",
+    "nomeBreve": "Montechiaro d'A.",
+    "label": null,
+    "id": "S00428"
+  },
+  {
+    "nomeLungo": "MONTECORVINO",
+    "nomeBreve": "Montecorvino",
+    "label": null,
+    "id": "S09822"
+  },
+  {
+    "nomeLungo": "MONTECOSARO",
+    "nomeBreve": "Montecosaro",
+    "label": null,
+    "id": "S07310"
+  },
+  {
+    "nomeLungo": "MONTEFALCIONE",
+    "nomeBreve": "Montefalcione",
+    "label": null,
+    "id": "S09602"
+  },
+  {
+    "nomeLungo": "MONTEFIASCONE",
+    "nomeBreve": "Montefiascone",
+    "label": null,
+    "id": "S08303"
+  },
+  {
+    "nomeLungo": "MONTEFREDANE",
+    "nomeBreve": "Montefredane",
+    "label": null,
+    "id": "S09529"
+  },
+  {
+    "nomeLungo": "MONTEGROSSO",
+    "nomeBreve": "Montegrosso",
+    "label": null,
+    "id": "S00803"
+  },
+  {
+    "nomeLungo": "MONTEIASI",
+    "nomeBreve": "Monteiasi",
+    "label": null,
+    "id": "S11601"
+  },
+  {
+    "nomeLungo": "MONTELLA",
+    "nomeBreve": "Montella",
+    "label": null,
+    "id": "S09612"
+  },
+  {
+    "nomeLungo": "MONTELLO GORLAGO",
+    "nomeBreve": "Montello Gorlago",
+    "label": null,
+    "id": "S01535"
+  },
+  {
+    "nomeLungo": "MONTELUPO CAPRAIA",
+    "nomeBreve": "Montelupo",
+    "label": null,
+    "id": "S06511"
+  },
+  {
+    "nomeLungo": "MONTEMAGGIORE",
+    "nomeBreve": "Montemaggiore",
+    "label": null,
+    "id": "S12203"
+  },
+  {
+    "nomeLungo": "MONTEMARANO",
+    "nomeBreve": "Montemarano",
+    "label": null,
+    "id": "S09610"
+  },
+  {
+    "nomeLungo": "MONTEMARCIANO",
+    "nomeBreve": "Montemarciano",
+    "label": null,
+    "id": "S07110"
+  },
+  {
+    "nomeLungo": "MONTEMILETTO",
+    "nomeBreve": "Montemiletto",
+    "label": null,
+    "id": "S09603"
+  },
+  {
+    "nomeLungo": "MONTENERO PETACCIATO",
+    "nomeBreve": "Montenero P.",
+    "label": null,
+    "id": "S07825"
+  },
+  {
+    "nomeLungo": "MONTEPAONE - MONTAURO",
+    "nomeBreve": "Montepaone M.",
+    "label": null,
+    "id": "S11836"
+  },
+  {
+    "nomeLungo": "MONTEPESCALI",
+    "nomeBreve": "Montepescali",
+    "label": null,
+    "id": "S06038"
+  },
+  {
+    "nomeLungo": "MONTEPRANDONE",
+    "nomeBreve": "Monteprandone",
+    "label": null,
+    "id": "S07554"
+  },
+  {
+    "nomeLungo": "MONTEPULCIANO",
+    "nomeBreve": "Montepulciano",
+    "label": null,
+    "id": "S06855"
+  },
+  {
+    "nomeLungo": "MONTEREALE VALCELLINA",
+    "nomeBreve": "Montereale Valc.",
+    "label": null,
+    "id": "S03085"
+  },
+  {
+    "nomeLungo": "MONTERODUNI",
+    "nomeBreve": "Monteroduni",
+    "label": null,
+    "id": "S09057"
+  },
+  {
+    "nomeLungo": "MONTERONI D`ARBIA",
+    "nomeBreve": "Monteroni d'Arb.",
+    "label": null,
+    "id": "S06871"
+  },
+  {
+    "nomeLungo": "MONTEROSSO",
+    "nomeBreve": "Monterosso",
+    "label": null,
+    "id": "S04732"
+  },
+  {
+    "nomeLungo": "MONTEROSSO MARCHE",
+    "nomeBreve": "Monterosso M.",
+    "label": null,
+    "id": "S07062"
+  },
+  {
+    "nomeLungo": "MONTEROTONDO",
+    "nomeBreve": "Monterotondo",
+    "label": null,
+    "id": "S08215"
+  },
+  {
+    "nomeLungo": "MONTESANO BUONABITACOLO",
+    "nomeBreve": "Montesano B.",
+    "label": null,
+    "id": "S09909"
+  },
+  {
+    "nomeLungo": "MONTESANTO",
+    "nomeBreve": "Montesanto",
+    "label": null,
+    "id": "S05801"
+  },
+  {
+    "nomeLungo": "MONTESILVANO",
+    "nomeBreve": "Montesilvano",
+    "label": null,
+    "id": "S07808"
+  },
+  {
+    "nomeLungo": "MONTEU DA PO",
+    "nomeBreve": "Monteu da Po",
+    "label": null,
+    "id": "S00422"
+  },
+  {
+    "nomeLungo": "MONTEVARCHI TERRANUOVA",
+    "nomeBreve": "Montevarchi T.",
+    "label": null,
+    "id": "S06910"
+  },
+  {
+    "nomeLungo": "MONTEVERDE",
+    "nomeBreve": "Monteverde",
+    "label": null,
+    "id": "S09624"
+  },
+  {
+    "nomeLungo": "MONTI TELTI",
+    "nomeBreve": "Monti Telti",
+    "label": null,
+    "id": "S12857"
+  },
+  {
+    "nomeLungo": "MONTICCHIO",
+    "nomeBreve": "Monticchio",
+    "label": null,
+    "id": "S09622"
+  },
+  {
+    "nomeLungo": "MONTICELLI D`ONGINA",
+    "nomeBreve": "Moonticelli d'O.",
+    "label": null,
+    "id": "S01971"
+  },
+  {
+    "nomeLungo": "MONTICELLO D`ALBA",
+    "nomeBreve": "Monticello d'A.",
+    "label": null,
+    "id": "S00823"
+  },
+  {
+    "nomeLungo": "MONTIGLIO MURISENGO",
+    "nomeBreve": "Montiglio Muris.",
+    "label": null,
+    "id": "S00426"
+  },
+  {
+    "nomeLungo": "MONTIRONE",
+    "nomeBreve": "Montirone",
+    "label": null,
+    "id": "S01840"
+  },
+  {
+    "nomeLungo": "MONTJOVET",
+    "nomeBreve": "Montjovet",
+    "label": null,
+    "id": "S00144"
+  },
+  {
+    "nomeLungo": "MONTORO FORINO",
+    "nomeBreve": "Montoro Forino",
+    "label": null,
+    "id": "S09518"
+  },
+  {
+    "nomeLungo": "MONTORO SUPERIORE",
+    "nomeBreve": "Montoro Super.",
+    "label": null,
+    "id": "S09517"
+  },
+  {
+    "nomeLungo": "MONTORSI",
+    "nomeBreve": "Montorsi",
+    "label": null,
+    "id": "S09528"
+  },
+  {
+    "nomeLungo": "MONTORSOLI",
+    "nomeBreve": "Montorsoli",
+    "label": null,
+    "id": "S06601"
+  },
+  {
+    "nomeLungo": "MONTREUX",
+    "nomeBreve": "Montreux",
+    "label": null,
+    "id": "S01235"
+  },
+  {
+    "nomeLungo": "MONZA",
+    "nomeBreve": "Monza",
+    "label": null,
+    "id": "S01322"
+  },
+  {
+    "nomeLungo": "MONZA SOBBORGHI",
+    "nomeBreve": "Monza Sobborghi",
+    "label": null,
+    "id": "S01480"
+  },
+  {
+    "nomeLungo": "MONZONE-M.DEI BANCHI-ISOLANO",
+    "nomeBreve": "Monzone",
+    "label": null,
+    "id": "S06225"
+  },
+  {
+    "nomeLungo": "MONZUNO",
+    "nomeBreve": "Monzuno",
+    "label": null,
+    "id": "S05132"
+  },
+  {
+    "nomeLungo": "MORANO SUL PO",
+    "nomeBreve": "Morano Po",
+    "label": null,
+    "id": "S00177"
+  },
+  {
+    "nomeLungo": "MORBEGNO",
+    "nomeBreve": "Morbegno",
+    "label": null,
+    "id": "S01425"
+  },
+  {
+    "nomeLungo": "MORCONE",
+    "nomeBreve": "Morcone",
+    "label": null,
+    "id": "S09503"
+  },
+  {
+    "nomeLungo": "MORENGO BARIANO",
+    "nomeBreve": "Morengo Bariano",
+    "label": null,
+    "id": "S01710"
+  },
+  {
+    "nomeLungo": "MORES ITTIREDDU",
+    "nomeBreve": "Mores Ittireddu",
+    "label": null,
+    "id": "S12864"
+  },
+  {
+    "nomeLungo": "MORETTA",
+    "nomeBreve": "Moretta",
+    "label": null,
+    "id": "S00544"
+  },
+  {
+    "nomeLungo": "MORGEX",
+    "nomeBreve": "Morgex",
+    "label": null,
+    "id": "S00131"
+  },
+  {
+    "nomeLungo": "MORI",
+    "nomeBreve": "Mori",
+    "label": null,
+    "id": "S02046"
+  },
+  {
+    "nomeLungo": "MORNAGO CIMBRO",
+    "nomeBreve": "Mornago Cimbro",
+    "label": null,
+    "id": "S01144"
+  },
+  {
+    "nomeLungo": "MOROLO",
+    "nomeBreve": "Morolo",
+    "label": null,
+    "id": "S08660"
+  },
+  {
+    "nomeLungo": "MORRA DE SANCTIS TEORA",
+    "nomeBreve": "Morra de S.T.",
+    "label": null,
+    "id": "S09617"
+  },
+  {
+    "nomeLungo": "MORREA-CASTRONOVO-RENDINARA",
+    "nomeBreve": "Morrea-Cas.-Ren.",
+    "label": null,
+    "id": "S08813"
+  },
+  {
+    "nomeLungo": "MORROVALLE MONTE S.GIUSTO",
+    "nomeBreve": "Morrovalle Msg",
+    "label": null,
+    "id": "S07309"
+  },
+  {
+    "nomeLungo": "MORTARA",
+    "nomeBreve": "Mortara",
+    "label": null,
+    "id": "S00034"
+  },
+  {
+    "nomeLungo": "MOSCIANO S. ANGELO",
+    "nomeBreve": "Mosciano S. Ang.",
+    "label": null,
+    "id": "S07904"
+  },
+  {
+    "nomeLungo": "MOSSA",
+    "nomeBreve": "Mossa",
+    "label": null,
+    "id": "S03302"
+  },
+  {
+    "nomeLungo": "MOTTA CAMASTRA",
+    "nomeBreve": "Motta Camastra",
+    "label": null,
+    "id": "S12360"
+  },
+  {
+    "nomeLungo": "MOTTA DI LIVENZA",
+    "nomeBreve": "Motta Liv.",
+    "label": null,
+    "id": "S02767"
+  },
+  {
+    "nomeLungo": "MOTTA S. DAMIANO",
+    "nomeBreve": "Motta S.Damiano",
+    "label": null,
+    "id": "S01862"
+  },
+  {
+    "nomeLungo": "MOTTA SAN GIOVANNI LAZZARO",
+    "nomeBreve": "Motta SG Lazzaro",
+    "label": null,
+    "id": "S11865"
+  },
+  {
+    "nomeLungo": "MOTTEGGIANA",
+    "nomeBreve": "Motteggiana",
+    "label": null,
+    "id": "S02339"
+  },
+  {
+    "nomeLungo": "MOZIA-BIRGI",
+    "nomeBreve": "Mozia-Birgi",
+    "label": null,
+    "id": "S12105"
+  },
+  {
+    "nomeLungo": "MOZZECANE",
+    "nomeBreve": "Mozzecane",
+    "label": null,
+    "id": "S02332"
+  },
+  {
+    "nomeLungo": "MULINETTI",
+    "nomeBreve": "Mulinetti",
+    "label": null,
+    "id": "S04713"
+  },
+  {
+    "nomeLungo": "MURATELLA",
+    "nomeBreve": "Muratella",
+    "label": null,
+    "id": "S08400"
+  },
+  {
+    "nomeLungo": "MURLO",
+    "nomeBreve": "Murlo",
+    "label": null,
+    "id": "S06876"
+  },
+  {
+    "nomeLungo": "MUSEI",
+    "nomeBreve": "Musei",
+    "label": null,
+    "id": "S12953"
+  },
+  {
+    "nomeLungo": "MUSIANO-PIAN DI MACINA",
+    "nomeBreve": "Musiano",
+    "label": null,
+    "id": "S05139"
+  },
+  {
+    "nomeLungo": "MUSSOTTO",
+    "nomeBreve": "Mussotto",
+    "label": null,
+    "id": "S00824"
+  },
+  {
+    "nomeLungo": "MUZZANA DEL TURGNANO",
+    "nomeBreve": "Muzzana del T.",
+    "label": null,
+    "id": "S03204"
+  }
+]

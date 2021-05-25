@@ -33,6 +33,22 @@ foreach ($res->soluzioni as $key => $soluzione):?>
                         substr(explode('T', $tratta->orarioPartenza)[1], 0, 5);?>
                     </span><i class="far fa-clock text-xs"></i>
                 </p>
+                <p><b>Categoria: </b><span><?php
+                    switch ($tratta->categoriaDescrizione) {
+                        case 'RV':
+                            echo 'Regionale veloce';
+                            break;
+                        case 'Frecciaargento':
+                            echo 'Freccia argento';
+                            break;
+                        case '':
+                            echo 'Non definita';
+                            break;
+                        default:
+                            echo $tratta->categoriaDescrizione;
+                            break;
+                    }?>
+                </span></p>
             </div>
             <?php endforeach; ?>
         </div>

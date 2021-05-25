@@ -1,8 +1,17 @@
 <?php
 
-$rawResponse = file_get_contents("http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/soluzioniViaggioNew/2446/1700/2021-05-27T00:00:00");
-$res = json_decode($rawResponse);
+//  Cerca stazioni
+//************************************************************************************************************
+//***  http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/cercaStazione/{NOME STAZIONE}      ***
+//************************************************************************************************************
 
+if(isset($_GET['partenzaSelect']) && isset($_GET['destinazioneSelect'])) {
+    $rawResponse = file_get_contents("http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/soluzioniViaggioNew/".trim($_GET['partenzaSelect'])."/".trim($_GET['destinazioneSelect'])."/".trim($_GET['data'])."T".trim($_GET['time']).":00");
+    $res = json_decode($rawResponse);
+}
+
+$stazioniRaw = file_get_contents("./stazioni.json");
+$stazioni = json_decode($stazioniRaw);
 ?>
 
 <!DOCTYPE html>
@@ -18,27 +27,32 @@ $res = json_decode($rawResponse);
 </head>
 <body class="bg-gray-800 flex justify-center items-center min-h-screen p-10" onclick="hideAutoCmp()">
     <div class="flex flex-col justify-center items-center p-8 border-2 border-blue-200 shadow-md bg-white rounded-md space-y-7">
-        <div class="flex w-full justify-between items-end">
+        <form action="#" method="GET" class="flex w-full justify-between items-end">
             <div>
                 <p class="uppercase text-lg font-bold tracking-wider">Cerca tratte</p>
                 <div class="flex space-x-2">
-                    <div class="relative">
-                        <input type="text" id="pInput" class="border border-blue-200 rounded-md shadow px-1 bg-gray-100" placeholder="Partenza" autocomplete="off" value="" oninput="showAutoCmp(this, 'autocmpPartenze');">
-                        <div class="rounded-md shadow border absolute bg-white z-50 w-44" id="autocmpPartenze" hidden>
-                            <p class="hover:bg-gray-200 p-1 px-2" onclick="autocompPartenze(this.innerHTML, 'pInput')">napoli</p>
-                            <hr>
-                            <p class="hover:bg-gray-200 p-1 px-2">napoli</p>
-                            <hr>
-                            <p class="hover:bg-gray-200 p-1 px-2">napoli</p>
-                        </div>
-                    </div>
-                    <input type="text" class="border border-red-300 rounded-md shadow px-1 bg-gray-100" placeholder="Destinazione" autocomplete="off">
+                    <select name="partenzaSelect" class="border border-blue-200 rounded-md shadow p-1 bg-gray-100 w-36" required>
+                        <option value="">Partenza</option>
+                        <?php foreach ($stazioni as $key => $stazione):?>
+                            <option value="<?=substr($stazione->id, 2) ?> "><?= $stazione->nomeLungo ?></option>
+                        <?php endforeach; ?>
+                    </select>
+                    <select name="destinazioneSelect" class="border border-red-300 rounded-md shadow p-1 bg-gray-100 w-36" required>
+                        <option value="">Destinazione</option>
+                        <?php foreach ($stazioni as $key => $stazione):?>
+                            <option value="<?=substr($stazione->id, 2) ?> "><?= $stazione->nomeLungo ?></option>
+                        <?php endforeach; ?>
+                    </select>
                 </div>
             </div>
-            <div><input class="border border-blue-200 rounded-md shadow px-1 bg-gray-100" type="date"></div>
-        </div>
+            <div class="flex space-x-1">
+                <input type="time" name="time" class="border border-blue-800 rounded-md shadow p-1 bg-gray-100" required>
+                <input name="data" class="border border-yellow-400 rounded-md shadow p-1 bg-gray-100" type="date" required>
+                <input type="submit" value="Cerca" class="border border-green-500 hover:bg-green-500 hover:text-white transition rounded-md shadow p-1 bg-gray-100">
+            </div>
+        </form>
 
-        <?php include 'printSolutions.php'; ?>
+        <?php (isset($res)) ? include 'printSolutions.php' : ""; ?>
 
         <hr class="py-4 w-full">
         <p class="text-center text-xl font-semibold uppercase">Struttura response</p>
@@ -57,16 +71,4 @@ $res = json_decode($rawResponse);
 </html>
 
 <script>
-    function autocompPartenze(value, input) {
-        document.getElementById(input).value = value;
-    }
-    function showAutoCmp(el, autocmp) {
-        if(el.value != "") {
-            document.getElementById(autocmp).hidden = false;
-        }
-    }
-
-    function hideAutoCmp() {
-        document.getElementById('autocmpPartenze').hidden = true;
-    }
 </script>
