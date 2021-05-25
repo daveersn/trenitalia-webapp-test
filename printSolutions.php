@@ -3,8 +3,8 @@ foreach ($res->soluzioni as $key => $soluzione):?>
 <div class="bg-gray-100 shadow border border-blue-200 rounded-md text-gray-800 p-3 mx-10 w-full">
     <p class="font-bold text-center uppercase tracking-wider" onclick="
      document.getElementById('solutionTab<?=$key?>').hidden = !
-     document.getElementById('solutionTab<?=$key?>').hidden">Soluzione #
-        <?=$key;?>
+     document.getElementById('solutionTab<?=$key?>').hidden">
+     Soluzione #<?=$key+1;?>
     </p>
     <div id='solutionTab<?=$key?>' hidden>
         <p class="flex justify-between items-center">
@@ -20,8 +20,8 @@ foreach ($res->soluzioni as $key => $soluzione):?>
             <?php
         foreach ($soluzione->vehicles as $key => $tratta):?>
             <div>
-                <p class="font-semibold uppercase tracking-wider"><span class="font-bold">Scalo </span>#
-                    <?= $key ?>
+                <p class="font-semibold uppercase tracking-wider"><span class="font-bold">Scalo
+                </span>#<?=$key+1?>
                 </p>
                 <p><b>Da:</b> <span class="text-blue-300 font-semibold">
                     <?= $tratta->origine?> | <?=

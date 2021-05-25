@@ -25,8 +25,11 @@ $stazioni = json_decode($stazioniRaw);
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
-<body class="bg-gray-800 flex justify-center items-center min-h-screen p-10" onclick="hideAutoCmp()">
-    <div class="flex flex-col justify-center items-center p-8 border-2 border-blue-200 shadow-md bg-white rounded-md space-y-7">
+<body class="bg-gray-800 flex justify-center items-center min-h-screen p-10">
+    <a href="api.php" class="absolute top-0 left-0">
+        <i class="fas fa-home text-5xl text-white p-5"></i>
+    </a>
+    <div class="flex flex-col justify-start items-center p-8 border-2 border-blue-200 shadow-md bg-white rounded-md space-y-7" style="min-height: 70vh; min-width: 50vw;">
         <form action="#" method="GET" class="flex w-full justify-between items-end">
             <div>
                 <p class="uppercase text-lg font-bold tracking-wider">Cerca tratte</p>
@@ -54,6 +57,7 @@ $stazioni = json_decode($stazioniRaw);
 
         <?php (isset($res)) ? include 'printSolutions.php' : ""; ?>
 
+        <?php if(isset($res)): ?>
         <hr class="py-4 w-full">
         <p class="text-center text-xl font-semibold uppercase">Struttura response</p>
         <pre class="border shadow-md bg-gray-900 text-white rounded-md p-6 overflow-auto w-full" style="max-height: 1000px;"><?= print_r($res); ?></pre>
@@ -66,6 +70,7 @@ $stazioni = json_decode($stazioniRaw);
         <p class="text-center text-xl font-semibold uppercase">Struttura tratta ('[vehicles]'')</p>
         <pre class="border shadow-md bg-gray-900 text-white rounded-md p-6 w-full">
             <?= print_r($res->soluzioni[0]->vehicles[0]); ?></pre>
+        <?php endif; ?>
     </div>
 </body>
 </html>
